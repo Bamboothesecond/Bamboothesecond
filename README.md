@@ -26,18 +26,18 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bernasor10&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bernasor10&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernasor10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bamboothesecond&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bamboothesecond&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboothesecond&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 GitHub Activity Graph
-![Bernasor10's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
+![Bamboothesecond's GitHub contributions](https://ghchart.rshah.org/Bamboothesecond)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bernasor10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Bamboothesecond&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bernasor10&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Bamboothesecond&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bernasor10&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bamboothesecond&theme=onedark)
