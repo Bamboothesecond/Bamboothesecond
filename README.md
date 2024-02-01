@@ -1,5 +1,5 @@
 # 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Bernasor10&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Bamboothesecond&color=blueviolet)
 
 # 🚀 About Me:
 I'm a developer with a keen interest in both frontend and backend development. My passion lies in creating engaging, interactive web and mobile applications. Continuously seeking out new challenges and technologies, I'm dedicated to enhancing my skills and bringing innovative ideas to life.
