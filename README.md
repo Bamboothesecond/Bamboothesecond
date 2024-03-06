@@ -57,7 +57,7 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboothesecond&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 GitHub Activity Graph
-![Bamboothesecond's GitHub contributions](https://ghchart.rshah.org/Bamboothesecond)
+![Bamboothesecond's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bamboothesecond&limit=5&theme=dark&combine_all_yearly_contributions=true)
