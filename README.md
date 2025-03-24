@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bernasor10&theme=onedark&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bamboothesecond&theme=onedark&row=2&column=4" alt="Trophies" />
 </div>
 
 ## 🛠️ My Digital Workshop
@@ -19,7 +19,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernasor10&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bamboothesecond&theme=dark&hide_border=true" />
 </p>
 
 ## 🚀 Tech Arsenal
@@ -62,8 +62,8 @@
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bernasor10&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernasor10&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bamboothesecond&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboothesecond&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ## 🌐 Social Hub
@@ -80,8 +80,8 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bernasor10&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Bernasor10?tab=followers">
-    <img src="https://img.shields.io/github/followers/Bernasor10?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=Bamboothesecond&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Bamboothesecond?tab=followers">
+    <img src="https://img.shields.io/github/followers/Bamboothesecond?label=Follow&style=social" alt="GitHub Followers">
   </a>
 </div>
