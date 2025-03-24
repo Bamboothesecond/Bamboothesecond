@@ -4,17 +4,17 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTX-4060%20Ti-76b900?logo=nvidia&style=for-the-badge&logoColor=white" />
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bamboothesecond&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bernasor10&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 # 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Bamboothesecond&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Bernasor10&color=blueviolet)
 
 # 🚀 About Me:
 I'm a developer with a keen interest in both frontend and backend development. My passion lies in creating engaging, interactive web and mobile applications. Continuously seeking out new challenges and technologies, I'm dedicated to enhancing my skills and bringing innovative ideas to life.
@@ -38,7 +38,7 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## IDE
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -53,19 +53,19 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 ## Browsers
-1.) ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)<br>
+1.) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)<br>
 2.) ![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)<br>
-3.) ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)<br>
+3.) ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bamboothesecond&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboothesecond&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bernasor10&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernasor10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 GitHub Activity Graph
-![Bamboothesecond's GitHub contributions](https://ghchart.rshah.org/Bamboothesecond)
+![Bernasor10's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bamboothesecond&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Bernasor10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bamboothesecond&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bernasor10&theme=onedark)
